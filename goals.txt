@@ -1,8 +1,13 @@
 First Name: Tim
 Last Name: Wheeler
-#modified
-Goals: My primary goal as a developer is to change the world using technology. I'm fascinated by being able to build things, and learning to program has tremendously helped me to change the way that I think and problem solve. Even though I've only scratched the surface, learning how to code has been one of the hardest things I've ever done. It's simulataneously the most gratifying and frustrating thing I've experienced. I'm an extremely competitive person, and programming has quickly become my number one competitor.
 
-Another one of my goals with becoming a developer is to have complete freedome. I want the ability to be able to work from just about anywhere that there's an internet connection. The thought of that is definitely what motivates me.
+Takeaways: So far, the main takeaways I've gotten from CareerDevs are...
 
-Even though I've been with CareerDevs for only about 2 weeks at this point, this is already a life-changing experience for me. I want to surround myself with likeminded people with similar goals, and this has definitely been the place for that. I can't wait for the journey that lies aheads.
+1. Be resourceful. Google is a developers best friend, and chances are, someone has already encountered the same problem you're facing. You can almost always find the answer to your problem by doing a quick search.
+
+2. Work together. Two minds are greater than one and that is something that is really proven true when you're trying to figur out something that you're stuck on. Just by asking your peers a few questions, you can hone in on the answer that much faster. This was super helpful to me on one of our first projects, the UNIX tutorial. My entire table ended up getting stuck on an error that was being thrown when we were trying to compile our package running the 'make' command. Just by putting our heads together we were all able to contribute and resolve the issue at hand.
+
+3. Repitition is key. It's pretty difficult to remember everything that's being thrown at us on the first time around. Whether it's the UNIX tutorial, or the Git Immersion tutorial, or even FreeCodeCamp.org. There's nothing wrong with going back through any of these again until you really grasp the concepts. In fact, I've already gone through theses tutorials multiple times in order for things to start to stick. The key is to just keep at it.
+
+4. Embrace the chaos. A lot of these concepts are foreign to most of us, and for the most part it's (literally) as if we're trying to learn another language. All the new terminology and nuances of each language and program can definitely become overwhelming, but that's the beauty of it all. If learning how to program was easy, then everyone would do it.  
+
